@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Maptz.CliTools.AvidDS.Converter.Tool": {
+      "commandName": "Project",
+      "commandLineArgs": "convert -i \"C:\\Users\\steph\\Google Drive\\_SMALL RESX\\Films\\++CURRENT\\SKI DREAMS\\Films - Ski Dreams - Clearance\\FEATURE - FINAL CUT 20190603\\DELIVERABLES\\TEXT - TRAILER - SUBTITLES AND CC\\AVID DS\\Where the Light Shines - Trailer - Subtitles.ds.txt\" -o \"C:\\Users\\steph\\OneDrive\\Desktop\\New folder\\test.xlsx\""
+    }
+  }
+}
