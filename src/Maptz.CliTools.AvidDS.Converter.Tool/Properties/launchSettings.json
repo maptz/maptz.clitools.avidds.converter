@@ -2,7 +2,7 @@
   "profiles": {
     "Maptz.CliTools.AvidDS.Converter.Tool": {
       "commandName": "Project",
-      "commandLineArgs": "convert -i \"C:\\Users\\steph\\Google Drive\\_SMALL RESX\\Films\\++CURRENT\\AFGHAN TRAP\\TRANSLATIONS\\TRANSLATIONS - IN - 20190723\\RUSSIAN\\NFR 047__fs38215__The New Day Of Afghanistan  R1__Afghanistan 1978.md.out\" "
+      "commandLineArgs": "convert -i \"C:\\Users\\steph\\OneDrive\\Desktop\\Subtitles - Episode 1 Assemblies.05.06\\Subtitles - Episode 1 - Assemblies.05.06.txt\" "
     }
   }
 }
