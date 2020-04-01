@@ -2,7 +2,7 @@
   "profiles": {
     "Maptz.CliTools.AvidDS.Converter.Tool": {
       "commandName": "Project",
-      "commandLineArgs": "convert -i \"C:\\Users\\steph\\OneDrive\\Desktop\\Subtitles - Episode 1 Assemblies.05.06\\Subtitles - Episode 1 - Assemblies.05.06.txt\" "
+      "commandLineArgs": "convert -i \"C:\\Users\\steph\\OneDrive\\Desktop\\ZARIFA SUBS\\ZARIFA - 01.00.11 - SUBTITLES.txt\" -m Excel "
     }
   }
 }
