@@ -2,7 +2,11 @@
   "profiles": {
     "Maptz.CliTools.AvidDS.Converter.Tool": {
       "commandName": "Project",
+<<<<<<< HEAD
       "commandLineArgs": "convert -i \"C:\\Users\\steph\\Google Drive\\_SMALL RESX\\Films\\++CURRENT\\AFGHAN TRAP\\TRANSLATIONS\\TRANSLATIONS - IN - 20190723\\RUSSIAN\\NFR 047__fs38215__The New Day Of Afghanistan  R1__Afghanistan 1978.md.out\" "
+=======
+      "commandLineArgs": "convert -i \"C:\\Users\\steph\\OneDrive\\Desktop\\TRANSLATION-TEST\\TANJA - TRANSLATING.txt\" -m Excel "
+>>>>>>> c26ed0fdf80e10b4e8906dc688ebeb0bd1e31428
     }
   }
 }
